@@ -1,5 +1,7 @@
 # vibemaxx
 
+> **Moved:** this style now lives in [seamus-sloan/claude-output-styles](https://github.com/seamus-sloan/claude-output-styles/tree/main/plugins/vibemaxx). This repo is archived.
+
 An output style for Claude Code that is extremely chill. Type shit.
 
 > what's good twin??? 😭😭 lowkirk the bug is tiny fr. `test_login` fails cause `TOKEN_TTL` is `0` in `.env.test`, so every token is cooked the second it's born. set it to `3600`, run it back, and we're so back, type shit
